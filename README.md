@@ -1,8 +1,9 @@
 # iPhone-Sales-Analysis
 iPhone Sales Python Project
-iPhone Sales Analysis
 
-# iPhone Sales Analysis
+<img width="818" alt="iphone sales" src="https://github.com/user-attachments/assets/078cbc03-973e-42be-b4bb-a6d8e4304d8e" />
+
+
 
 ## Overview
 This project analyzes iPhone sales data to provide insights into sales trends, revenue generation, and customer preferences. The analysis is conducted using Python, leveraging data visualization and analytical libraries.
